@@ -7,5 +7,6 @@
 
 Find me elsewhere 🌎
 
-:email: [Email] (thiagobrrt88@gmail.com)
+:email: thiagobrrt88@gmail.com
+
 💼 [LinkedIn] (https://www.linkedin.com/in/thiago-barreto-920820a6/)
