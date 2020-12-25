@@ -9,4 +9,4 @@ Find me elsewhere 🌎
 
 :email: thiagobrrt88@gmail.com
 
-💼 [LinkedIn] (https://www.linkedin.com/in/thiago-barreto-920820a6/)
+💼 [LinkedIn](https://www.linkedin.com/in/thiago-barreto-920820a6/)
