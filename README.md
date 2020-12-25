@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Quarkus and AWS
 - :house:	I'm currently living in Osasco - São Paaulo
 
-Find me elsewhere 🌎
+
+### Find me elsewhere 🌎
 
 :email: thiagobrrt88@gmail.com
 
