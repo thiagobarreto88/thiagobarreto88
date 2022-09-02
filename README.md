@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Rede](https://www.userede.com.br/novo/sobre)
 - 🌱 I’m currently working with Java and AWS
 - :house:	I'm currently living in Osasco - São Paulo
--  I'm currently studying [Kotlin](https://kotlinlang.org/)
+-  👨‍💻 I'm currently studying <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
 
 ### Find me elsewhere 🌎
