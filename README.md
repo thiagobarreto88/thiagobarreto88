@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [Rede](https://www.userede.com.br/novo/sobre)
 - 🌱 I’m currently working with Java and AWS
 - :house:	I'm currently living in Osasco - São Paulo
+-  I'm currently studying [Kotlin](https://kotlinlang.org/)
 
 
 ### Find me elsewhere 🌎
